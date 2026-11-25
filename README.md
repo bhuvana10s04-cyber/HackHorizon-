@@ -1,7 +1,7 @@
 
 # HackHorizon
 
-## About the Project
+## About the Project - bhuvana
 
 An innovative hackathon project focused on developing
 technology-driven solutions to real-world problems.

@@ -15,10 +15,10 @@ technology-driven solutions to real-world problems.
 
 ## Technology Stack
 
-- Frontend: To be decided
-- Backend: To be decided
-- Database: To be decided
-- AI/ML: To be decided
+- Frontend: React/HTML-CSS-JS
+- Backend: Python/Flask
+- Database: MangoDb
+- AI/ML: Scikit-learn
 
 ## Team
 
